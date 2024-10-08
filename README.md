@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @theabdulbasitt
-- 👀 I’m interested in App development, Web development, Machine Learning, and Data sceince.
+- 👀 Software Engineer mastering in AI/ML. 
 - 💞️ I love to play Football.
 
 <!---
